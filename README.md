@@ -1,5 +1,5 @@
-![Xhyuaner's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhyuaner&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhyuaner&layout=compact) 
+![Xhyuaner's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhyuaner&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhyuaner&layout=compact&theme=tokyonight)  
 ## 欢迎来到我的GitHub主页！
 - 👋 Hi, I’m @xhyuaner 
 - 📫 How to reach me Email: xhyuaner@gmail.com  
