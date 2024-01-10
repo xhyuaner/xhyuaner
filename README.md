@@ -1,6 +1,7 @@
+![Xhyuaner's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhyuaner&show_icons=true&theme=tokyonight)
 ## 欢迎来到我的GitHub主页！
-- 👋 Hi, I’m @xhyuaner
-- 📫 How to reach me Email: xhyuaner@gmail.com 
+- 👋 Hi, I’m @xhyuaner 
+- 📫 How to reach me Email: xhyuaner@gmail.com  
 ### 自我介绍
 - 有坚持写作的习惯，例如学习Grpc框架后，会将其总结产出。
 - 有良好的代码编写习惯和沟通协作能力，例如在大学团队中能高效积极的参与团队讨论。
